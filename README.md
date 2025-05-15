@@ -13,10 +13,10 @@ An iOS 17+ application built using **Xcode 16** and **Swift** that uses a Core M
 
 # Screenshots
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/cc897b61-6cdd-4751-9fdb-d60a4a1f7523"  width: 200/>
-  <img src="https://github.com/user-attachments/assets/f0e046ce-c315-45df-a421-970b19ebb2e9"  width: 200/>
-  <img src="https://github.com/user-attachments/assets/d9733e45-9986-4900-af5e-77dcffd4a389"  width: 200/>
-  <img src="https://github.com/user-attachments/assets/e539e836-e551-4f5a-8836-110497d4740a"  width: 200/>
+  <img src="https://github.com/user-attachments/assets/cc897b61-6cdd-4751-9fdb-d60a4a1f7523" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f0e046ce-c315-45df-a421-970b19ebb2e9" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d9733e45-9986-4900-af5e-77dcffd4a389"  width="200"/>
+  <img src="https://github.com/user-attachments/assets/e539e836-e551-4f5a-8836-110497d4740a" width="200"/>
 </div>
 
 
